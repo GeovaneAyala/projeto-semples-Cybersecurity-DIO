@@ -56,4 +56,4 @@ python3 decrypter.py
 
 Este projeto tem fins estritamente **educacionais** e de estudo acadêmico, conforme proposto no programa da DIO. O uso deste conhecimento para fins maliciosos é ilegal e não recomendado.
 
-```
+---
